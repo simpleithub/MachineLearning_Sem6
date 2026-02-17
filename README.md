@@ -1,4 +1,4 @@
-# MLSEM6 – Machine Learning Lab (Semester 6)
+# UCS2612-ML Lab (Semester 6)
 
 This repository contains all Machine Learning lab exercises for Semester 6, including Jupyter notebooks and corresponding experiment reports (PDF). Each folder represents one experiment and includes both implementation and documentation.
 ## Repository Structure
@@ -64,5 +64,5 @@ Each experiment folder includes:
 
 ## Course
 
-Machine Learning Laboratory – Semester 6  
+UCS2612-ML Lab – Semester 6  
 (For academic and learning purposes)
