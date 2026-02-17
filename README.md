@@ -11,22 +11,22 @@ MLSEM6/
 │   ├── a1_email.ipynb
 │   ├── a1_iris.ipynb
 │   ├── a1_loan.ipynb
-│   └── ml_ex1.pdf
+│   └── ml_ex1.pdf (REPORT)
 │
 ├── Ex2/
 │   ├── a2.ipynb
-│   └── ml_ex2.pdf
+│   └── ml_ex2.pdf (REPORT)
 │
 ├── Ex3/
 │   ├── a3.ipynb
-│   └── ml_ex3.pdf
+│   └── ml_ex3.pdf (REPORT)
 │
 ├── Ex4/
 │   ├── a4.ipynb
-│   └── ml_ex4.pdf
+│   └── ml_ex4.pdf (REPORT)
 │
 └── README.md
-
+```
 
 ## Folder Description
 
