@@ -1,31 +1,32 @@
 # MLSEM6 – Machine Learning Lab (Semester 6)
 
 This repository contains all Machine Learning lab exercises for Semester 6, including Jupyter notebooks and corresponding experiment reports (PDF). Each folder represents one experiment and includes both implementation and documentation.
-
 ## Repository Structure
 
+```bash
 MLSEM6/
 │
 ├── Ex1/
-│ ├── a1_diabetes.ipynb
-│ ├── a1_email.ipynb
-│ ├── a1_iris.ipynb
-│ ├── a1_loan.ipynb
-│ └── ml_ex1.pdf
+│   ├── a1_diabetes.ipynb
+│   ├── a1_email.ipynb
+│   ├── a1_iris.ipynb
+│   ├── a1_loan.ipynb
+│   └── ml_ex1.pdf
 │
 ├── Ex2/
-│ ├── a2.ipynb
-│ └── ml_ex2.pdf
+│   ├── a2.ipynb
+│   └── ml_ex2.pdf
 │
 ├── Ex3/
-│ ├── a3.ipynb
-│ └── ml_ex3.pdf
+│   ├── a3.ipynb
+│   └── ml_ex3.pdf
 │
 ├── Ex4/
-│ ├── a4.ipynb
-│ └── ml_ex4.pdf
+│   ├── a4.ipynb
+│   └── ml_ex4.pdf
 │
 └── README.md
+
 
 ## Folder Description
 
